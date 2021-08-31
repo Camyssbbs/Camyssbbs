@@ -1,5 +1,4 @@
 ### Olá! Eu sou a Camilly Borges 
-- 🔭 Atualmente trabalho como analista de suporte e instrutora de informártica
 - 🌱 No momento estou estudando SQL e Java
 - 📫 How to reach me: camillybborges002@gmail.com
 - 😄 Pronouns: Ela/dela
