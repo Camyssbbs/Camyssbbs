@@ -16,6 +16,7 @@
     <img align="center" alt="camys-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
     <img align="center" alt="camys-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
     <img align="center" alt="camys-Python" height="30" width="40" src="https://github.com/Camyssbbs/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+ <img align="center" alt="camys-Python" height="30" width="40" src="https://raw.githubusercontent.com/Camyssbbs/devicon/master/icons/pycharm/pycharm-original-wordmark.svg">
  <img align="center" alt="camys-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="right" alt="camys-yoda" src="https://media.discordapp.net/attachments/784575854117781504/871145216718024744/picasion.com_af6865b2032f64fe40fb62a9c36d694a.gif">
 </div>
