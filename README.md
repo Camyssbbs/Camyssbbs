@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Camilly Borges 
-- 🌱 No momento estou estudando SQL e Java
-- 📫 How to reach me: camillybborges002@gmail.com
+- 📫 How to reach me: camillyborgess22@gmail.com
 - 😄 Pronouns: Ela/dela
 ##
 
