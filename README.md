@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Camilly Borges 
-- 📫 How to reach me: camysborges23@gmail.com
+- 📫 How to reach me: camysbborges18@gmail.com
 - 😄 Pronouns: Ela/dela
 ##
 
